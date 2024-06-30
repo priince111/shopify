@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb+srv://princeagrawal240:<Prince123>@cluster0.7pzneq8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtsecret": "your jwt secret",
+    "StripeAPIKey": "sk_test_51PVchv060EZIjLGXDhPiAzeKKQgNtz89xummApaELIidyaT31bVvJu7DISDRw0NdgwJKdTxApOUclc6HsMnsODbY00qPvYf5dX"
+}
